@@ -27,7 +27,7 @@ import base64
 # Initial page config
 
 st.set_page_config(
-     page_title='Trader sheet',
+     page_title='wangyu2488 sheet',
      layout="wide",
      initial_sidebar_state="expanded",
 )
