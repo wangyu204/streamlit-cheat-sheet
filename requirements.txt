@@ -1,1 +1,2 @@
 streamlit
+akshare==1.11.75
